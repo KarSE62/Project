@@ -28,3 +28,5 @@ WebUI.click(findTestObject('Object Repository/Page_Login  Registration/button_Lo
 
 WebUI.verifyTextPresent('ญาณสิชฌ์', false)
 
+WebUI.closeBrowser()
+
